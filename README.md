@@ -6,8 +6,8 @@
 
 # About
 
-- 🔭 I’m currently working on **DfE Family Hub**
+- 🔭 I’m currently working on **DfE - Family Hubs**
 
 # Previous Projects
 
-- **DfE Plan Technology For Your School**
+- **DfE - Plan Technology For Your School**
