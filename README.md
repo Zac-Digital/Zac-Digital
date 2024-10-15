@@ -1,4 +1,12 @@
-![](https://raw.githubusercontent.com/Zac-AND-Digital/Zac-AND-Digital/output/github-contribution-grid-snake.svg)
+## Current Project
+
+- **Department for Education** - [**Family Hubs**](https://github.com/DFE-Digital/fh-services)
+
+---
+
+## Previous Projects
+
+- **Department for Education** - [**Plan Technology for your School**](https://github.com/DFE-Digital/sts-plan-technology-for-your-school)
 
 ---
 
@@ -10,12 +18,4 @@
 
 ---
 
-## Current Project
-
-- **Department for Education** - [**Family Hubs**](https://github.com/DFE-Digital/fh-services)
-
----
-
-## Previous Projects
-
-- **Department for Education** - [**Plan Technology for your School**](https://github.com/DFE-Digital/sts-plan-technology-for-your-school)
+![](https://raw.githubusercontent.com/Zac-AND-Digital/Zac-AND-Digital/output/github-contribution-grid-snake.svg)
