@@ -1,4 +1,4 @@
-## Current Project
+## Current Projects
 
 - **Department for Education** - [**Family Hubs**](https://github.com/DFE-Digital/fh-services)
 
