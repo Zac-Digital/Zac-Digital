@@ -1,6 +1,7 @@
 ## Current Projects
 
 - **Department for Education** - [**Family Hubs**](https://github.com/DFE-Digital/fh-services)
+- **Personal** - [**Wiki Fuzz**](https://github.com/Zac-Digital/WikiFuzz)
 
 ---
 
