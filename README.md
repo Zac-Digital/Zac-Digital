@@ -10,7 +10,8 @@
 
 ## Previous Projects
 
-- **Department for Education** - [**Plan Technology for your School**](https://github.com/DFE-Digital/sts-plan-technology-for-your-school)
+- **Department for Education**
+    - [**Plan Technology for your School**](https://github.com/DFE-Digital/sts-plan-technology-for-your-school)
 
 ---
 
