@@ -19,12 +19,12 @@ jobs:
     
     steps:
       - name: Generate Image
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
             
       # https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
       - name: Push Image
