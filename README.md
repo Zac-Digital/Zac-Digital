@@ -23,4 +23,8 @@
 
 ---
 
-![](https://raw.githubusercontent.com/Zac-AND-Digital/Zac-AND-Digital/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zac-AND-Digital/Zac-AND-Digital/output/github-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zac-AND-Digital/Zac-AND-Digital/output/github-snake.svg" />
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Zac-AND-Digital/Zac-AND-Digital/output/github-snake.svg" />
+</picture>
