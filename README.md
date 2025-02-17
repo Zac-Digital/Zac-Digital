@@ -2,16 +2,20 @@
 
 - **Department for Education**
     - [**Family Hubs**](https://github.com/DFE-Digital/fh-services)
-- **Personal**
-    - [**Wiki Fuzz**](https://github.com/Zac-Digital/WikiFuzz)
-    - [**Advent of Code 2024**](https://github.com/Zac-Digital/Advent-of-Code_2024)
-
+  
 ---
 
 ## Previous Projects
 
 - **Department for Education**
     - [**Plan Technology for your School**](https://github.com/DFE-Digital/sts-plan-technology-for-your-school)
+
+---
+
+## Personal Projects
+
+- [**Wiki Fuzz**](https://github.com/Zac-Digital/WikiFuzz)
+- [**Advent of Code 2024**](https://github.com/Zac-Digital/Advent-of-Code_2024)
 
 ---
 
