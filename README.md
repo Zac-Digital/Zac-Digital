@@ -1,11 +1,11 @@
-## Current Projects
+## Current Client
 
-- **AND Digital (Internal)**
-    - [**Service Directory**](https://github.com/Zac-Digital/Service-Directory)
-  
+- **Sky**
+    - Private Repository
+      
 ---
 
-## Previous Projects
+## Previous Client
 
 - **Department for Education**
     - [**Family Hubs**](https://github.com/DFE-Digital/fh-services)
@@ -15,6 +15,7 @@
 
 ## Personal Projects
 
+- [**Service Directory**](https://github.com/Zac-Digital/Service-Directory)
 - [**Wiki Fuzz**](https://github.com/Zac-Digital/WikiFuzz)
 - [**Advent of Code 2024**](https://github.com/Zac-Digital/Advent-of-Code_2024)
 
