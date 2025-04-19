@@ -1,11 +1,11 @@
 ## Current Client
 
 - **Sky**
-    - Private Repository
+    - (Private)
       
 ---
 
-## Previous Client
+## Previous Clientele
 
 - **Department for Education**
     - [**Family Hubs**](https://github.com/DFE-Digital/fh-services)
