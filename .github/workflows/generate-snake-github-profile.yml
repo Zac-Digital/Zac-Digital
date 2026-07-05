@@ -28,7 +28,7 @@ jobs:
             
       # https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
       - name: Push Image
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
