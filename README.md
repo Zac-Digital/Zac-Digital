@@ -1,23 +1,12 @@
-## Current Client
-
-- **Sky**
-    - (Private)
-      
----
-
-## Previous Clientele
+## Project Highlights
 
 - **Department for Education**
+    - [**Care Leavers**](https://github.com/DFE-Digital/care-leavers) 
     - [**Family Hubs**](https://github.com/DFE-Digital/fh-services)
     - [**Plan Technology for your School**](https://github.com/DFE-Digital/sts-plan-technology-for-your-school)
 
----
-
-## Personal Projects
-
-- [**Service Directory**](https://github.com/Zac-Digital/Service-Directory)
-- [**Wiki Fuzz**](https://github.com/Zac-Digital/WikiFuzz)
-- [**Advent of Code 2024**](https://github.com/Zac-Digital/Advent-of-Code_2024)
+ - **Personal**
+     - [**Estimate Income Tax**](https://github.com/Zac-Digital/Estimate-Income-Tax) 
 
 ---
 
