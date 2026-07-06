@@ -10,16 +10,18 @@
 
 ---
 
-![Summary of Zac-AND-Digital's contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zac-Digital&theme=radical)
-
-![Top programming langues used by Zac-AND-Digital](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zac-Digital&theme=radical&exclude=)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zac-AND-Digital&theme=radical)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zac-Digital&theme=vision_friendly_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zac-Digital&theme=vision_friendly_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zac-Digital&theme=vision_friendly_dark" />
+</div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zac-AND-Digital/Zac-AND-Digital/output/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zac-AND-Digital/Zac-AND-Digital/output/github-snake.svg" />
-  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Zac-AND-Digital/Zac-AND-Digital/output/github-snake.svg" />
-</picture>
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zac-Digital/Zac-Digital/output/github-snake-dark.svg?palette=github-dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zac-Digital/Zac-Digital/output/github-snake.svg" />
+        <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Zac-Digital/Zac-Digital/output/github-snake.svg" />
+    </picture>
+</div>
